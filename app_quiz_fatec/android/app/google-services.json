@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516134658936",
+    "project_id": "app-quiz-fatecrp",
+    "storage_bucket": "app-quiz-fatecrp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516134658936:android:4ef69dbdc8ed2278c59e8d",
+        "android_client_info": {
+          "package_name": "com.example.app_quiz_fatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516134658936-a1hh2ahrdulohoduhrql1ole70t2970p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3MLuzDY1wPhU7B9v5mQP6bdQa3kU-RAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516134658936-a1hh2ahrdulohoduhrql1ole70t2970p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
